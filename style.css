@@ -1,0 +1,30 @@
+ /* @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap'); */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+  }
+  html,body{
+    display: grid;
+    height: 100%;
+    width: 100%;
+    place-items: center;
+    background: -webkit-linear-gradient(left, #89728d, #8d8387);
+  }
+  .form-container{
+    background-color: rgb(57, 58, 58);
+    padding: 10px;
+    width: 300px;
+    height: 400px;
+  }
+  .admin{
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+  .pass-link{
+    float: right;
+  }
+  
+ 
